@@ -79,8 +79,3 @@ int main(void) {
     addRecord(r);
     return 0;
 }
-// step = 2
-// dist = 25
-// x = 10
-// y = 20
-// direction = Forward
